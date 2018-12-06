@@ -1,0 +1,24 @@
+{
+  "name": "django-rest",
+  "version": "1.0.0",
+  "description": "learning rest with django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermelen/django-rest.git"
+  },
+  "keywords": [
+    "django",
+    "api",
+    "rest"
+  ],
+  "author": "hermelen.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hermelen/django-rest/issues"
+  },
+  "homepage": "https://github.com/hermelen/django-rest#readme"
+}
